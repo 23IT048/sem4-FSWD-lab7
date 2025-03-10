@@ -62,7 +62,3 @@ The API will be available at `http://localhost:3000`.
 - `GET /tasks/:id` - Retrieve a task by ID
 - `PUT /tasks/:id` - Update a task by ID
 - `DELETE /tasks/:id` - Delete a task by ID
-
-## License
-
-This project is licensed under the MIT License.
